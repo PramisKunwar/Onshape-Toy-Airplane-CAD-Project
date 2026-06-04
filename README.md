@@ -1,4 +1,13 @@
 # Parametric CAD Modeling & Assembly of a Toy Airplane
+
+## Image
+
+| Main Assembly |
+|---|
+| <img src="/AIRPLANE image.png" width="350" alt="Airplane Assembly"/> |
+
+---
+
 ## Overview
 This project focuses on the feature-based parametric 3D modeling and mechanical assembly of a multi-part biplane using Onshape. Modeled entirely from technical engineering drawings, the project replicates a classic toy airplane design while adhering to strict manufacturing layout constraints. The workflow transitions from individual part creation across strategic geometric planes to top-level assembly integration, culminating in a functional, animated mechanical system.
 
