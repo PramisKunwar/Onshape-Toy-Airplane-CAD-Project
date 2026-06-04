@@ -62,6 +62,12 @@ The project is structured into two logical sub-assemblies before integrating int
 * Select **Animate**.
 * Set your steps and loop style to view the propeller in proper operation!
 
-
-
 ---
+
+### **Key Takeaways & Next Steps**
+
+* **What went well:** The modular sub-assembly approach saved hours of troubleshooting constraints at the top level.
+* **What I learned:** Parametric design isn't just about drawing shapes; it’s about anticipating how those shapes interact mechanically in a 3D coordinate space.
+
+## Author
+Pramis Kunwar
